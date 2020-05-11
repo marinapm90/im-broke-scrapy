@@ -2,9 +2,9 @@
 
 The goal of this project is to scrape a website.
 
-A few years ago, I built a website [mondecadeaux.com](mondecadeaux.com) an affiliated e-commerce for the french public as a learning purpose.
+A few years ago, I built a website [https://www.mondecadeaux.com](mondecadeaux.com) an affiliated e-commerce for the french public as a learning purpose.
 
-That is why I made this project to easily scrape a website where I can find the images and URL of another similar USA website. [thisiswhyimbroke.com](thisiswhyimbroke.com)
+That is why I made this project to easily scrape a website where I can find the images and URL of another similar USA website. [https://www.thisiswhyimbroke.com/](thisiswhyimbroke.com)
 
 #### Python Libraries:
 
