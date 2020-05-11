@@ -1,4 +1,4 @@
-#I AM BROKE - SCRAPY
+# I AM BROKE - SCRAPY
 
 The goal of this project is to scrape a website.
 
@@ -6,7 +6,7 @@ A few years ago, I built a website [mondecadeaux.com](mondecadeaux.com) an affil
 
 That is why I made this project to easily scrape a website where I can find the images and URL of another similar USA website. [thisiswhyimbroke.com](thisiswhyimbroke.com)
 
-####Python Libraries:
+#### Python Libraries:
 
 * Selenium
 * Urllib
@@ -16,12 +16,12 @@ That is why I made this project to easily scrape a website where I can find the 
 
 A requirements.txt file is included in the repository for easy installation.
 
-####Start up:
+#### Start up:
 
 To use it you just need to run:
 
 ``python3 im_broke.py ``
 
-####Next steps:
+#### Next steps:
 
 To automate the publication of these products on my website.
