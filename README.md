@@ -14,13 +14,15 @@ That is why I made this project to easily scrape a website where I can find the 
 * Re
 * Pandas
 
-A requirements.txt file is included in the repository for easy installation.
+A [requirements.txt](https://github.com/marinapm90/im-broke-scrapy/blob/master/requirements.txt) file is included in the repository for easy installation.
 
 #### Start up:
 
 To use it you just need to run:
 
 ``python3 im_broke.py ``
+
+And you will find a CSV on your computer with all the information.
 
 #### Next steps:
 
