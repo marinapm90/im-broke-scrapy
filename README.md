@@ -4,7 +4,8 @@ The goal of this project is to scrape a website.
 
 A few years ago, I built a website [mondecadeaux.com](https://www.mondecadeaux.com) an affiliated e-commerce for the french public as a learning purpose.
 
-That is why I made this project to easily scrape a website where I can find the images and URL of another similar USA website. [thisiswhyimbroke.com](https://www.thisiswhyimbroke.com/)
+That is why I made this project to easily scrape a website where I can find the images and URL of another similar USA website. <html> <a href='https://www.thisiswhyimbroke.com/'  rel='nofollow noreferrer'> thisiswhyimbroke.com</a>
+</html>
 
 #### Python Libraries:
 
